@@ -4,7 +4,7 @@ My name is Anna and I work as a **Data Scientist at CERN IT Department, Innovati
 
 During my Ph.D in **Computer Science**, I explored state-of-the-art Machine Learning and Deep Learning techniques for Human Activity Recognition. [Here](https://scholar.google.com/citations?user=KEZwfq8AAAAJ&hl=it) my publication list. 
 
-I spent the last year of my Ph.D (2019-2020) at CERN, exploring how wearable devices can help patients affected from Parkinson's disease to take trak of their medicaments and well-being. [Here](https://healthmanagement.org/c/healthmanagement/issuearticle/smart-diagnostics-with-wearable-devices-principles-and-applications) an article related to wearable devices and smart diagnosis. 
+I spent the last year of my Ph.D (2019-2020) at CERN, exploring how wearable devices can help patients affected from Parkinson's disease to monitor their medicaments, well-being and rehabilitation. [Here](https://healthmanagement.org/c/healthmanagement/issuearticle/smart-diagnostics-with-wearable-devices-principles-and-applications) an article related to wearable devices and smart diagnosis. 
 
 Before my Ph.D, I have been working as a **Statistician** for many years, applying hypothesis testing and predictive models.
 
